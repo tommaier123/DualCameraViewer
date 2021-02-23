@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualCameraViewer", "DualCameraViewer\DualCameraViewer.csproj", "{2276F144-3D00-46E1-A5DB-6FCD4FE6A240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2276F144-3D00-46E1-A5DB-6FCD4FE6A240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2276F144-3D00-46E1-A5DB-6FCD4FE6A240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2276F144-3D00-46E1-A5DB-6FCD4FE6A240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2276F144-3D00-46E1-A5DB-6FCD4FE6A240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC82B2C-E1DA-4DD5-905E-36C8E016CF70}
+	EndGlobalSection
+EndGlobal
